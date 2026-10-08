@@ -1,1 +1,47 @@
-<!doctype html><html><head><meta charset="utf-8"><title>BookSim 发布</title></head><body><h1>BookSim 发布目录</h1><p>共 1 本</p><ul><li><a href="产业与文明.html">产业与文明</a></li></ul></body></html>
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BookSim · 机制沙盒</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;background:#faf8f5;color:#1a1a1a;line-height:1.6}
+header{padding:48px 24px 24px;max-width:960px;margin:0 auto;text-align:center}
+header h1{font-size:40px;font-weight:700;letter-spacing:-.5px;margin-bottom:8px}
+header p{color:#666;font-size:16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:20px;padding:0 24px 48px;max-width:1200px;margin:0 auto}
+.card{border-radius:16px;overflow:hidden;text-decoration:none;transition:transform .2s,box-shadow .2s;display:flex;flex-direction:column;aspect-ratio:3/4;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.card:hover{transform:translateY(-4px);box-shadow:0 12px 24px rgba(0,0,0,.15)}
+.card .art{flex:1;padding:28px 24px;display:flex;flex-direction:column;justify-content:flex-end;position:relative;overflow:hidden}
+.card .art::before{content:"";position:absolute;top:-40px;right:-40px;width:160px;height:160px;border-radius:50%;background:rgba(255,255,255,.1);pointer-events:none}
+.card .art::after{content:"";position:absolute;bottom:-20px;left:-20px;width:80px;height:80px;border-radius:50%;background:rgba(255,255,255,.08);pointer-events:none}
+.card .title{font-size:28px;font-weight:700;line-height:1.2;position:relative;z-index:1}
+.card .sub{font-size:14px;opacity:.85;margin-top:8px;position:relative;z-index:1;line-height:1.4}
+.card .foot{padding:20px 24px;background:rgba(255,255,255,.95);color:#333}
+.card .tagline{font-size:15px;font-weight:500;color:#1a1a1a;margin-bottom:6px;line-height:1.5}
+.card .name{font-size:12px;color:#999}
+footer{text-align:center;padding:32px 24px 48px;color:#888;font-size:13px;border-top:1px solid #eee;margin-top:48px}
+footer a{color:#666;text-decoration:none}
+footer a:hover{color:#333;text-decoration:underline}
+.stat{display:inline-block;background:#eee;border-radius:20px;padding:4px 12px;font-size:13px;color:#555;margin-top:16px}
+@media(max-width:640px){
+  header h1{font-size:28px}
+  .grid{grid-template-columns:1fr}
+  .card .title{font-size:22px}
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>BookSim · 机制沙盒</h1>
+  <p>把一本书的逻辑拆成可以亲手玩的选择沙盒</p>
+  <span class="stat">共 0 本 · v6 · 2026-10-08</span>
+</header>
+<main class="grid"></main>
+<footer>
+  <p>本作品是原作的机制解读与可交互沙盒，不是原作正文。原文摘录按项目内部上限控制。</p>
+  <p style="margin-top:8px">想读正文请购买正版 · 代码与创作过程在私有仓库</p>
+</footer>
+</body>
+</html>
