@@ -1,7 +1,7 @@
 {
   "$schema": "booksim-publish-manifest-1",
-  "version": 3,
-  "generated": "2026-10-08T08:15:47.232Z",
+  "version": 4,
+  "generated": "2026-10-08T08:16:31.331Z",
   "books": [
     {
       "name": "奥德赛",
@@ -46,7 +46,7 @@
       "title": "产业与文明",
       "pack": "packs/产业与文明.html",
       "release": true,
-      "publish": true,
+      "publish": false,
       "origchars": 460000,
       "source": "张笑宇 · 广西师范大学出版社 2022",
       "publicdomain": false,
