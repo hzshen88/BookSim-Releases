@@ -1,17 +1,17 @@
 {
   "$schema": "booksim-publish-manifest-1",
-  "version": 10,
-  "generated": "2026-10-08T13:33:19.150Z",
+  "version": 13,
+  "generated": "2026-10-08T16:04:07.548Z",
   "books": [
     {
-      "name": "奥德赛",
-      "title": "奥德赛 · 归途的四本账",
-      "slug": "odyssey",
-      "pack": "packs/奥德赛.html",
+      "name": "ai-career",
+      "title": "AI 职业之路",
+      "zhname": "ng-career",
+      "pack": "packs/ai-career.html",
       "release": true,
       "publish": false,
       "origchars": null,
-      "source": "公版重构 · 十步归途 · 占位配图版",
+      "source": "Andrew Ng（吴恩达）· DeepLearning.AI, 2021 · 免费电子书",
       "publicdomain": false,
       "_meta": {
         "hasBrief": true,
@@ -19,55 +19,15 @@
         "quoteCount": 0,
         "quoteChars": 0,
         "hadFull": false,
-        "author": "荷马",
-        "tagline": "一句真名，十年利息"
+        "author": "吴恩达（Andrew Ng）",
+        "tagline": "三万天，花掉就不再回来"
       }
     },
     {
-      "name": "禅与摩托车维修艺术",
-      "title": "禅与摩托车维修艺术",
-      "slug": "zen-motorcycle",
-      "pack": "packs/禅与摩托车维修艺术.html",
-      "release": true,
-      "publish": false,
-      "origchars": null,
-      "source": "据网络中文电子版改编，节七章 · 引文逐字可复核",
-      "publicdomain": false,
-      "_meta": {
-        "hasBrief": true,
-        "hasQuote": true,
-        "quoteCount": 31,
-        "quoteChars": 1805,
-        "hadFull": true,
-        "author": "罗伯特·M·波西格（Robert M. Pirsig）",
-        "tagline": "机器修得好不好，和你这个人整不完整，是同一件事"
-      }
-    },
-    {
-      "name": "产业与文明",
-      "title": "产业与文明",
-      "slug": "industry-civilization",
-      "pack": "packs/产业与文明.html",
-      "release": true,
-      "publish": true,
-      "origchars": 460000,
-      "source": "张笑宇 · 广西师范大学出版社 2022",
-      "publicdomain": false,
-      "_meta": {
-        "hasBrief": true,
-        "hasQuote": true,
-        "quoteCount": 16,
-        "quoteChars": 1244,
-        "hadFull": true,
-        "author": "张笑宇",
-        "tagline": "得产缘者得地缘，失产缘者失地缘"
-      }
-    },
-    {
-      "name": "批判性思维",
+      "name": "critical-thinking",
       "title": "批判性思维",
-      "slug": "critical-thinking",
-      "pack": "packs/批判性思维.html",
+      "zhname": "批判性思维",
+      "pack": "packs/critical-thinking.html",
       "release": true,
       "publish": false,
       "origchars": null,
@@ -84,169 +44,9 @@
       }
     },
     {
-      "name": "奇点更近",
-      "title": "奇点更近",
-      "slug": "singularity-nearer",
-      "pack": "packs/奇点更近.html",
-      "release": true,
-      "publish": false,
-      "origchars": null,
-      "source": "按原书的时间表与论证脉络改编，共七章",
-      "publicdomain": false,
-      "_meta": {
-        "hasBrief": true,
-        "hasQuote": true,
-        "quoteCount": 14,
-        "quoteChars": 814,
-        "hadFull": true,
-        "author": "雷·库兹韦尔（Ray Kurzweil）",
-        "tagline": "你把未来十年押在哪一边"
-      }
-    },
-    {
-      "name": "钱与人生",
-      "title": "钱与人生",
-      "slug": "money-life",
-      "pack": "packs/钱与人生.html",
-      "release": true,
-      "publish": false,
-      "origchars": null,
-      "source": "衍何文化 编著 · 2026 年 7 月",
-      "publicdomain": false,
-      "_meta": {
-        "hasBrief": true,
-        "hasQuote": false,
-        "quoteCount": 0,
-        "quoteChars": 0,
-        "hadFull": false,
-        "author": "衍何文化",
-        "tagline": "理财理的从来不是钱，是你对人生的控制权"
-      }
-    },
-    {
-      "name": "穷查理宝典",
-      "title": "穷查理宝典",
-      "slug": "poor-charlie",
-      "pack": "packs/穷查理宝典.html",
-      "release": true,
-      "publish": false,
-      "origchars": null,
-      "source": "按彼得·考夫曼编《穷查理宝典》（全新增订本，中信出版社 2021）的框架改编，共七章",
-      "publicdomain": false,
-      "_meta": {
-        "hasBrief": true,
-        "hasQuote": false,
-        "quoteCount": 0,
-        "quoteChars": 0,
-        "hadFull": false,
-        "author": "查理·芒格（Charlie Munger）",
-        "tagline": "一切聪明的下注，都从「怎样会失败」开始"
-      }
-    },
-    {
-      "name": "人生问答",
-      "title": "人生问答",
-      "slug": "life-questions",
-      "pack": "packs/人生问答.html",
-      "release": true,
-      "publish": false,
-      "origchars": null,
-      "source": "成庆 · 东方出版中心，2026 年 8 月",
-      "publicdomain": false,
-      "_meta": {
-        "hasBrief": true,
-        "hasQuote": false,
-        "quoteCount": 0,
-        "quoteChars": 0,
-        "hadFull": false,
-        "author": "成庆",
-        "tagline": "困住你的不是那件事，是你看它的方式"
-      }
-    },
-    {
-      "name": "通往奴役之路",
-      "title": "通往奴役之路",
-      "slug": "road-to-serfdom",
-      "pack": "packs/通往奴役之路.html",
-      "release": true,
-      "publish": false,
-      "origchars": null,
-      "source": null,
-      "publicdomain": false,
-      "_meta": {
-        "hasBrief": false,
-        "hasQuote": true,
-        "quoteCount": 12,
-        "quoteChars": 1213,
-        "hadFull": true,
-        "author": null,
-        "tagline": "计划，为什么总把善意的人引向他们本不想去的地方"
-      }
-    },
-    {
-      "name": "照亮破碎之心",
-      "title": "照亮破碎之心",
-      "slug": "illuminating-broken-hearts",
-      "pack": "packs/照亮破碎之心.html",
-      "release": true,
-      "publish": false,
-      "origchars": null,
-      "source": "按吴承瀚译本（湖南文艺出版社，2024）的六个病例改编，共六章",
-      "publicdomain": false,
-      "_meta": {
-        "hasBrief": true,
-        "hasQuote": true,
-        "quoteCount": 25,
-        "quoteChars": 2871,
-        "hadFull": true,
-        "author": "卡尔·戴瑟罗思（Karl Deisseroth，1971– ）",
-        "tagline": "从破损的地方，读出原本完好的部分"
-      }
-    },
-    {
-      "name": "自私的基因",
-      "title": "自私的基因 · 机制沙盒",
-      "slug": "selfish-gene",
-      "pack": "packs/自私的基因.html",
-      "release": true,
-      "publish": false,
-      "origchars": null,
-      "source": "据初版论证结构重构 · 七章因果链",
-      "publicdomain": false,
-      "_meta": {
-        "hasBrief": true,
-        "hasQuote": false,
-        "quoteCount": 0,
-        "quoteChars": 0,
-        "hadFull": false,
-        "author": "理查德·道金斯",
-        "tagline": "利他，怎样在自私的复制子手里活下来"
-      }
-    },
-    {
-      "name": "最小骨架",
-      "title": "最小骨架 · 两个节点跑通流程",
-      "slug": "minimal-skeleton",
-      "pack": null,
-      "release": false,
-      "publish": false,
-      "origchars": null,
-      "source": "最小骨架 · 2 节点",
-      "publicdomain": false,
-      "_meta": {
-        "hasBrief": true,
-        "hasQuote": false,
-        "quoteCount": 0,
-        "quoteChars": 0,
-        "hadFull": false,
-        "author": "示范用",
-        "tagline": null
-      }
-    },
-    {
       "name": "entrepreneurs",
       "title": "创业者",
-      "slug": "entrepreneurs",
+      "zhname": "entrepreneurs",
       "pack": "packs/entrepreneurs.html",
       "release": true,
       "publish": false,
@@ -264,14 +64,34 @@
       }
     },
     {
-      "name": "ng-career",
-      "title": "AI 职业之路",
-      "slug": "ai-career",
-      "pack": "packs/ng-career.html",
+      "name": "farewell-primordial",
+      "title": "告别洪荒",
+      "zhname": "告别洪荒",
+      "pack": "packs/farewell-primordial.html",
       "release": true,
       "publish": false,
       "origchars": null,
-      "source": "Andrew Ng（吴恩达）· DeepLearning.AI, 2021 · 免费电子书",
+      "source": "按赵林《告别洪荒——人类文明的演进》（湖南人民出版社 2018 三版）改编，共七章",
+      "publicdomain": false,
+      "_meta": {
+        "hasBrief": true,
+        "hasQuote": true,
+        "quoteCount": 28,
+        "quoteChars": 2914,
+        "hadFull": true,
+        "author": "赵林",
+        "tagline": "每一次冲击都是重生的机会——也可能是死亡"
+      }
+    },
+    {
+      "name": "gates-of-heaven",
+      "title": "天国之门 · 机制沙盒",
+      "zhname": "天国之门",
+      "pack": "packs/gates-of-heaven.html",
+      "release": true,
+      "publish": false,
+      "origchars": null,
+      "source": "湖南人民出版社 2018 年三版",
       "publicdomain": false,
       "_meta": {
         "hasBrief": true,
@@ -279,8 +99,228 @@
         "quoteCount": 0,
         "quoteChars": 0,
         "hadFull": false,
-        "author": "吴恩达（Andrew Ng）",
-        "tagline": "三万天，花掉就不再回来"
+        "author": "赵林",
+        "tagline": "希腊的和谐 → 罗马的放纵 → 基督教的唯灵 → 未完成的合题"
+      }
+    },
+    {
+      "name": "illuminating-broken-hearts",
+      "title": "照亮破碎之心",
+      "zhname": "照亮破碎之心",
+      "pack": "packs/illuminating-broken-hearts.html",
+      "release": true,
+      "publish": false,
+      "origchars": null,
+      "source": "按吴承瀚译本（湖南文艺出版社，2024）的六个病例改编，共六章",
+      "publicdomain": false,
+      "_meta": {
+        "hasBrief": true,
+        "hasQuote": true,
+        "quoteCount": 25,
+        "quoteChars": 2871,
+        "hadFull": true,
+        "author": "卡尔·戴瑟罗思（Karl Deisseroth，1971– ）",
+        "tagline": "从破损的地方，读出原本完好的部分"
+      }
+    },
+    {
+      "name": "industry-civilization",
+      "title": "产业与文明",
+      "zhname": "产业与文明",
+      "pack": "packs/industry-civilization.html",
+      "release": true,
+      "publish": true,
+      "origchars": 460000,
+      "source": "张笑宇 · 广西师范大学出版社 2022",
+      "publicdomain": false,
+      "_meta": {
+        "hasBrief": true,
+        "hasQuote": true,
+        "quoteCount": 16,
+        "quoteChars": 1244,
+        "hadFull": true,
+        "author": "张笑宇",
+        "tagline": "得产缘者得地缘，失产缘者失地缘"
+      }
+    },
+    {
+      "name": "life-questions",
+      "title": "人生问答",
+      "zhname": "人生问答",
+      "pack": "packs/life-questions.html",
+      "release": true,
+      "publish": false,
+      "origchars": null,
+      "source": "成庆 · 东方出版中心，2026 年 8 月",
+      "publicdomain": false,
+      "_meta": {
+        "hasBrief": true,
+        "hasQuote": false,
+        "quoteCount": 0,
+        "quoteChars": 0,
+        "hadFull": false,
+        "author": "成庆",
+        "tagline": "困住你的不是那件事，是你看它的方式"
+      }
+    },
+    {
+      "name": "minimal-skeleton",
+      "title": "最小骨架 · 两个节点跑通流程",
+      "zhname": "最小骨架",
+      "pack": "packs/minimal-skeleton.html",
+      "release": true,
+      "publish": false,
+      "origchars": null,
+      "source": "最小骨架 · 2 节点",
+      "publicdomain": false,
+      "_meta": {
+        "hasBrief": true,
+        "hasQuote": false,
+        "quoteCount": 0,
+        "quoteChars": 0,
+        "hadFull": false,
+        "author": "示范用",
+        "tagline": "先让流程跑通，再谈内容"
+      }
+    },
+    {
+      "name": "money-life",
+      "title": "钱与人生",
+      "zhname": "钱与人生",
+      "pack": "packs/money-life.html",
+      "release": true,
+      "publish": false,
+      "origchars": null,
+      "source": "衍何文化 编著 · 2026 年 7 月",
+      "publicdomain": false,
+      "_meta": {
+        "hasBrief": true,
+        "hasQuote": false,
+        "quoteCount": 0,
+        "quoteChars": 0,
+        "hadFull": false,
+        "author": "衍何文化",
+        "tagline": "理财理的从来不是钱，是你对人生的控制权"
+      }
+    },
+    {
+      "name": "odyssey",
+      "title": "奥德赛 · 归途的四本账",
+      "zhname": "奥德赛",
+      "pack": "packs/odyssey.html",
+      "release": true,
+      "publish": false,
+      "origchars": null,
+      "source": "公版重构 · 十步归途 · 占位配图版",
+      "publicdomain": false,
+      "_meta": {
+        "hasBrief": true,
+        "hasQuote": false,
+        "quoteCount": 0,
+        "quoteChars": 0,
+        "hadFull": false,
+        "author": "荷马",
+        "tagline": "一句真名，十年利息"
+      }
+    },
+    {
+      "name": "poor-charlie",
+      "title": "穷查理宝典",
+      "zhname": "穷查理宝典",
+      "pack": "packs/poor-charlie.html",
+      "release": true,
+      "publish": false,
+      "origchars": null,
+      "source": "按彼得·考夫曼编《穷查理宝典》（全新增订本，中信出版社 2021）的框架改编，共七章",
+      "publicdomain": false,
+      "_meta": {
+        "hasBrief": true,
+        "hasQuote": false,
+        "quoteCount": 0,
+        "quoteChars": 0,
+        "hadFull": false,
+        "author": "查理·芒格（Charlie Munger）",
+        "tagline": "一切聪明的下注，都从「怎样会失败」开始"
+      }
+    },
+    {
+      "name": "road-to-serfdom",
+      "title": "通往奴役之路",
+      "zhname": "通往奴役之路",
+      "pack": "packs/road-to-serfdom.html",
+      "release": true,
+      "publish": false,
+      "origchars": null,
+      "source": null,
+      "publicdomain": false,
+      "_meta": {
+        "hasBrief": false,
+        "hasQuote": true,
+        "quoteCount": 12,
+        "quoteChars": 1213,
+        "hadFull": true,
+        "author": null,
+        "tagline": "计划，为什么总把善意的人引向他们本不想去的地方"
+      }
+    },
+    {
+      "name": "selfish-gene",
+      "title": "自私的基因 · 机制沙盒",
+      "zhname": "自私的基因",
+      "pack": "packs/selfish-gene.html",
+      "release": true,
+      "publish": false,
+      "origchars": null,
+      "source": "据初版论证结构重构 · 七章因果链",
+      "publicdomain": false,
+      "_meta": {
+        "hasBrief": true,
+        "hasQuote": false,
+        "quoteCount": 0,
+        "quoteChars": 0,
+        "hadFull": false,
+        "author": "理查德·道金斯",
+        "tagline": "利他，怎样在自私的复制子手里活下来"
+      }
+    },
+    {
+      "name": "singularity-nearer",
+      "title": "奇点更近",
+      "zhname": "奇点更近",
+      "pack": "packs/singularity-nearer.html",
+      "release": true,
+      "publish": false,
+      "origchars": null,
+      "source": "按原书的时间表与论证脉络改编，共七章",
+      "publicdomain": false,
+      "_meta": {
+        "hasBrief": true,
+        "hasQuote": true,
+        "quoteCount": 14,
+        "quoteChars": 814,
+        "hadFull": true,
+        "author": "雷·库兹韦尔（Ray Kurzweil）",
+        "tagline": "你把未来十年押在哪一边"
+      }
+    },
+    {
+      "name": "zen-motorcycle",
+      "title": "禅与摩托车维修艺术",
+      "zhname": "禅与摩托车维修艺术",
+      "pack": "packs/zen-motorcycle.html",
+      "release": true,
+      "publish": false,
+      "origchars": null,
+      "source": "据网络中文电子版改编，节七章 · 引文逐字可复核",
+      "publicdomain": false,
+      "_meta": {
+        "hasBrief": true,
+        "hasQuote": true,
+        "quoteCount": 31,
+        "quoteChars": 1805,
+        "hadFull": true,
+        "author": "罗伯特·M·波西格（Robert M. Pirsig）",
+        "tagline": "机器修得好不好，和你这个人整不完整，是同一件事"
       }
     }
   ]
