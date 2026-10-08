@@ -1,11 +1,12 @@
 {
   "$schema": "booksim-publish-manifest-1",
-  "version": 9,
-  "generated": "2026-10-08T13:24:51.554Z",
+  "version": 10,
+  "generated": "2026-10-08T13:33:19.150Z",
   "books": [
     {
       "name": "奥德赛",
       "title": "奥德赛 · 归途的四本账",
+      "slug": "odyssey",
       "pack": "packs/奥德赛.html",
       "release": true,
       "publish": false,
@@ -25,6 +26,7 @@
     {
       "name": "禅与摩托车维修艺术",
       "title": "禅与摩托车维修艺术",
+      "slug": "zen-motorcycle",
       "pack": "packs/禅与摩托车维修艺术.html",
       "release": true,
       "publish": false,
@@ -44,6 +46,7 @@
     {
       "name": "产业与文明",
       "title": "产业与文明",
+      "slug": "industry-civilization",
       "pack": "packs/产业与文明.html",
       "release": true,
       "publish": true,
@@ -63,6 +66,7 @@
     {
       "name": "批判性思维",
       "title": "批判性思维",
+      "slug": "critical-thinking",
       "pack": "packs/批判性思维.html",
       "release": true,
       "publish": false,
@@ -82,6 +86,7 @@
     {
       "name": "奇点更近",
       "title": "奇点更近",
+      "slug": "singularity-nearer",
       "pack": "packs/奇点更近.html",
       "release": true,
       "publish": false,
@@ -101,6 +106,7 @@
     {
       "name": "钱与人生",
       "title": "钱与人生",
+      "slug": "money-life",
       "pack": "packs/钱与人生.html",
       "release": true,
       "publish": false,
@@ -120,6 +126,7 @@
     {
       "name": "穷查理宝典",
       "title": "穷查理宝典",
+      "slug": "poor-charlie",
       "pack": "packs/穷查理宝典.html",
       "release": true,
       "publish": false,
@@ -139,6 +146,7 @@
     {
       "name": "人生问答",
       "title": "人生问答",
+      "slug": "life-questions",
       "pack": "packs/人生问答.html",
       "release": true,
       "publish": false,
@@ -158,6 +166,7 @@
     {
       "name": "通往奴役之路",
       "title": "通往奴役之路",
+      "slug": "road-to-serfdom",
       "pack": "packs/通往奴役之路.html",
       "release": true,
       "publish": false,
@@ -177,6 +186,7 @@
     {
       "name": "照亮破碎之心",
       "title": "照亮破碎之心",
+      "slug": "illuminating-broken-hearts",
       "pack": "packs/照亮破碎之心.html",
       "release": true,
       "publish": false,
@@ -196,6 +206,7 @@
     {
       "name": "自私的基因",
       "title": "自私的基因 · 机制沙盒",
+      "slug": "selfish-gene",
       "pack": "packs/自私的基因.html",
       "release": true,
       "publish": false,
@@ -215,6 +226,7 @@
     {
       "name": "最小骨架",
       "title": "最小骨架 · 两个节点跑通流程",
+      "slug": "minimal-skeleton",
       "pack": null,
       "release": false,
       "publish": false,
@@ -234,6 +246,7 @@
     {
       "name": "entrepreneurs",
       "title": "创业者",
+      "slug": "entrepreneurs",
       "pack": "packs/entrepreneurs.html",
       "release": true,
       "publish": false,
@@ -253,6 +266,7 @@
     {
       "name": "ng-career",
       "title": "AI 职业之路",
+      "slug": "ai-career",
       "pack": "packs/ng-career.html",
       "release": true,
       "publish": false,
